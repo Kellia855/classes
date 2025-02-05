@@ -1,3 +1,4 @@
+#!/bin/bash
 for fruit in berries guava banana
 do
 echo " i like $fruit"
